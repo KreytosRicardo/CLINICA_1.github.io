@@ -1,0 +1,22 @@
+*{
+    list-style: none;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: #B5F0CE;
+
+}
+.seccion_contenedor{
+    background-color: #B5F0CE;
+    text-align: center;
+}
+.anuncio{
+    text-align: left;
+    margin-left: 200px;
+    
+}
+
+#Final{
+    text-align: center;
+}
